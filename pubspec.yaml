@@ -23,10 +23,10 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^2.0.0
   better_player:
-    # git: 
-    #   url: https://github.com/SairamVemula/betterplayer.git
-    #   ref: feature/web_plugin
-    path: ../betterplayer
+    git: 
+      url: https://github.com/SairamVemula/betterplayer.git
+      ref: feature/web_plugin
+    # path: ../betterplayer
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
